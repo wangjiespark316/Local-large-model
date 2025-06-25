@@ -1,4 +1,4 @@
-# L🐳 本地部署 Ollama + Open WebUI + Qwen1.8B 中文大模型笔记（适用于 Mac）
+# 🐳 本地部署 Ollama + Open WebUI + Qwen1.8B 中文大模型笔记（适用于 Mac）
 
 ✅ ollama/ 和 webui-data/ 目录
 是自动生成的！
