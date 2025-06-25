@@ -1,4 +1,9 @@
 # L🐳 本地部署 Ollama + Open WebUI + Qwen1.8B 中文大模型笔记（适用于 Mac）
+
+✅ ollama/ 和 webui-data/ 目录
+是自动生成的！
+只要你在 docker-compose.yml 中定义了：
+
 📁 一、项目目录结构
 你创建的项目目录为：
 /Users/wangjie/Documents/ollama-docker
