@@ -16,4 +16,6 @@ services:
       - OPENAI_API_BASE_URL=${OPENAI_API_BASE_URL}
     restart: always
 
+    
+
 # 声明.env文件位置，docker compose会自动加载同目录的.env文件
